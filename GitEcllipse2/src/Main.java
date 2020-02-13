@@ -9,6 +9,7 @@ public class Main {
 //	D:\Capgemini\GitEcllipse2 is te root directory
 	public static void main(String[] args) {
 		System.out.println("Hellow World");
+		System.out.println("Test");
 	}
 
 }
